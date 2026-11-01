@@ -1,0 +1,11 @@
+model/
+bmo_voices/*.onnx
+data.json
+*.wav
+/tmp/
+__pycache__/
+*.pyc
+.DC_Store
+old_bmo.py
+voice2.py
+voice_test.py
