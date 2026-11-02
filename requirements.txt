@@ -1,0 +1,6 @@
+pygame
+ollama
+vosk
+sounddevice
+numpy
+piper-tts
