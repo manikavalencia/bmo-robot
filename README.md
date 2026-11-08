@@ -18,7 +18,7 @@ An interactive, physical desktop assistant inspired by **BMO from Adventure Time
 
 ## Credits & Acknowledgments
 * **Voice Model:** BMO Piper TTS model (`bmo.onnx`) fine-tuned and shared by **[@brenpoly](https://github.com/brenpoly)**.
-* **Enclosure CAD & Software:** Designed and built by Angel Valencia.
+* **Enclosure CAD & Software:** Designed and built by manikavalencia.
 
 ## 📦 Requirements & Usage
 ```bash
