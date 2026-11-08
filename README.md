@@ -24,5 +24,10 @@ An interactive, physical desktop assistant inspired by **BMO from Adventure Time
 ```bash
 git clone [https://github.com/manikavalencia/bmo-robot.git](https://github.com/manikavalencia/bmo-robot.git)
 cd bmo-robot
+
+#PYTHON VIRTUAL ENVIRONMENT 
+python3 -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
-python bmo.py
+
+python3 bmo.py
