@@ -16,6 +16,10 @@ An interactive, physical desktop assistant inspired by **BMO from Adventure Time
 3. **LLM Inference:** Prompt is fed into local Ollama model history context to stream responses.
 4. **Output Pipeline:** Piper TTS synthesizes the response to ALSA audio output while Pygame updates dynamic facial state animations in sync.
 
+## Credits & Acknowledgments
+* **Voice Model:** BMO Piper TTS model (`bmo.onnx`) fine-tuned and shared by **[@brenpoly](https://github.com/brenpoly)**.
+* **Enclosure CAD & Software:** Designed and built by Angel Valencia.
+
 ## 📦 Requirements & Usage
 ```bash
 git clone [https://github.com/manikavalencia/bmo-robot.git](https://github.com/manikavalencia/bmo-robot.git)
